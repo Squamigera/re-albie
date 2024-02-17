@@ -1,3 +1,5 @@
+touch .gitignore
+
 #include<iostream>
 using namespace std;
 int main(){
